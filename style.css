@@ -1,0 +1,68 @@
+body{
+    margin: 50px;
+   
+    background-color: hsl(212, 45%, 89%);
+    font-family:Outfit;
+}
+
+
+.wrapper{
+    margin-left: auto;
+    margin-right:auto;
+    height: 450px;
+    width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    padding:10px;
+}
+h1{
+    
+    font-weight:700;
+    font-size: larger;
+    text-align: center;
+    color:hsl(218, 44%, 22%)
+  
+}
+p{
+    font-weight:400;
+    text-align: center;
+    color: hsl(220, 15%, 55%)
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.main-content{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.attribution{
+    position: absolute;
+    bottom: 0;
+}
+
+/* @media (min-width: 1000px) {
+   body{
+    width: 1440px;
+    }
+  }
+
+@media (min-width: 375px) {
+    body{
+     width: 375px;
+     padding:10px;
+     }
+     .wrapper{
+        padding-left: 10px;
+        height: 400px;
+        width: 17   0px;
+    }
+    img{
+        height: 150px;
+        width: 150px;
+        border-radius: 10px;
+    }
+   } */
